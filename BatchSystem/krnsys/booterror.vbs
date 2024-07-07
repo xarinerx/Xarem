@@ -1,0 +1,1 @@
+x=msgbox("System not found bootable media! System halted." ,16, "Boot Error")

@@ -1,0 +1,1 @@
+x=msgbox("Application crashed" ,16, "Err.App.Crash")

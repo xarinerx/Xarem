@@ -1,0 +1,2 @@
+sys.bat recover.bat box.bat files=kernelsys.bat boot.png mddbootloadernew.bat systemconfiguration12.bat
+databases.ver xaremfiles.txt

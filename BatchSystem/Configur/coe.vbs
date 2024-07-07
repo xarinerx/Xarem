@@ -1,0 +1,1 @@
+x=msgbox("Configuration Error, system crashed" ,16, "System Configuration Error")

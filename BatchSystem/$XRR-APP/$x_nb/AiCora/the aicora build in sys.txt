@@ -1,0 +1,19 @@
+:aicora
+cls
+call userpins
+ set AI.N=AiCora [Beta]
+  set AI.V=1.0 Beta
+   set AI.C=BlueCore Team
+    set AI.L=BlueCore Studio since 2023. DO NOT PIRATE AND ILLEGAL COPIES THIS APPLICATION! This application is free! 
+	 set AI.WN=Welcome in AiCora [Beta]
+echo It's a %AI.N%
+echo you have any questions?
+echo   Clock: %time%
+echo   AiCora version: %AI.V%
+echo AiCora in developing bug's fix in progress
+call Button 2 45 "Exit" 2 30 "Hello" 2 35 " How d o you feel? " 2 40 "What are you?" # Press
+Getinput /m %Press% /h 70
+if %errorlevel%==1 goto start 
+if %errorlevel%==2 goto answerhello
+if %errorlevel%==3 goto answerhowdo
+if %errorlevel%==4 goto answerwhatare1

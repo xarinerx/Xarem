@@ -1,0 +1,15 @@
+string currentDirectory = Directory.GetCurrentDirectory();
+DirectoryInfo parent1 = Directory.GetParent(currentDirectory);
+DirectoryInfo parent2 = parent1?.Parent; // Второй родительский каталог
+:
+string targetFolder = "krnsys";
+string newPath = Path.Combine(currentDirectory, targetFolder);
+
+sxarem \.. \..ssxarem-file boot do not delete.
+string Directory = directory.getglobal(); {
+	global = batchsystem
+	string currentDirectory = Directory.GetCurrentDirectory();
+	 DirectoryInfo parent1 = Directory.GetParent(currentDirectory);
+	   string currentkernel = data.kernel();
+	     string currentkernel = .ssxarem(data.kernel);
+		 }

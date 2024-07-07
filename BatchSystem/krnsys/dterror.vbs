@@ -1,0 +1,1 @@
+x=msgbox("System crashed. Has been occured error. Please restart the system / or upd/reinstall him." ,16, "EXPLRLOGON Corrupt/deleted")

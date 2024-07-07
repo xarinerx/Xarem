@@ -1,0 +1,1 @@
+x=msgbox("Bootfail, system file corrupted / deleted / renamed. Try reinstall/restart/update system. Your system has been corrupted. If those 3 options didn't work." ,16, "System Syntax Error")

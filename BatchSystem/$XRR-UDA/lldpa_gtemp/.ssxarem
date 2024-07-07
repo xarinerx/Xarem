@@ -1,0 +1,9 @@
+x | ^^ current ver== 0 0: 1704
+set=currentset kernel
+setbatch = Batch System [Xarem OS] {
+setbatchos = xaremos
+  setbatchosver = 1704
+    setbatchkernel = [this file] .ssxarem
+      setbatchoskernel = [this file] .ssxarem
+        setbatchosupd = updsetxarem
+                                    }
